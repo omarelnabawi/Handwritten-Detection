@@ -50,7 +50,8 @@ This project is a Streamlit-based web app that allows users to upload images and
 ## Example
 
 Here is an example of the app’s interface and the text detection result:
-![Screenshot](path-to-screenshot)
+![Screenshot](![image](https://github.com/user-attachments/assets/3790efa0-d901-4e94-bd5a-f1f8be7158a7)
+)
 
 ## Dependencies
 
