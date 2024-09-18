@@ -17,8 +17,8 @@ This project is a Streamlit-based web app that allows users to upload images and
 
 1. Clone the repository:
     ```bash
-    git clone <your-repo-url>
-    cd <your-repo-folder>
+    git clone https://github.com/omarelnabawi/Handwritten-Detection
+    cd Handwritten-Detection
     ```
 
 2. Install dependencies:
